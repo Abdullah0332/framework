@@ -1,4 +1,4 @@
 /node_modules/
-/Data/
-/dist/
-/.cache/
+Data
+dist
+.cache
